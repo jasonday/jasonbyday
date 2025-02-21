@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Portfolio",
             "altText": "",
             "url": "/portfolio",
             "showIcon": false,
