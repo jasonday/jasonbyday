@@ -23,8 +23,8 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['Noto Sans', 'sans-serif'],
-                serif: ['Noto Serif', 'serif']
+                sans: ['DM Sans', 'sans-serif'],
+                serif: ['DM Serif Display', 'serif']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
