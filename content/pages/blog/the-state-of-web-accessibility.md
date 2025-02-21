@@ -68,6 +68,9 @@ styles:
     borderWidth: 2
     padding:
       - pt-4
+      - pl-4
+      - pb-4
+      - pr-4
 author: content/data/jason-day.json
 ---
 ![Illustration of three hurdles in a row, blocking the path to a flag](/images/hurdles.jpg)
