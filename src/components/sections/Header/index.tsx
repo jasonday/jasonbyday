@@ -247,7 +247,7 @@ function SiteLogoLink({ title, logo, enableAnnotations }) {
             {title && (
                 <span className="h4" {...(enableAnnotations && { 'data-sb-field-path': 'title' })}>
                      {/* {title} */}
-                    Jason <span>by</span> Day
+                    JASON <span>by</span> DAY
                 </span>
             )}
         </Link>
