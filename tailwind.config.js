@@ -24,7 +24,7 @@ module.exports = {
             },
             fontFamily: {
                 sans: ['Roboto', 'sans-serif'],
-                serif: ['Merriweather', 'serif']
+                serif: ['Literata', 'serif']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
