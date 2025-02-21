@@ -181,7 +181,7 @@
         .sb-input,
         .sb-select,
         .sb-textarea {
-            @apply placeholder-dark/50;
+            @apply placeholder-dark;
         }
         .sb-component-button-primary {
             @apply bg-primary border-primary text-light;
@@ -216,7 +216,7 @@
         .sb-input,
         .sb-select,
         .sb-textarea {
-            @apply placeholder-dark/50;
+            @apply placeholder-dark;
         }
         .sb-component-button-primary {
             @apply bg-primary border-primary text-light;
@@ -251,7 +251,7 @@
         .sb-input,
         .sb-select,
         .sb-textarea {
-            @apply placeholder-light/50;
+            @apply placeholder-light;
         }
         .sb-component-button-primary {
             @apply bg-primary border-primary text-light;
@@ -282,7 +282,7 @@
     }
     /* Only for cards */
     .bg-neutralAlt-fg-dark {
-        @apply text-dark bg-neutralAlt;
+        @apply text-dark bg-neutralAlt border-dark;
         .sb-component-button-primary {
             @apply bg-primary border-primary text-light;
         }
