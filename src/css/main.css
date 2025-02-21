@@ -128,7 +128,7 @@
         @apply w-12;
     }
 
-    .sb-component[data-sb-field-path="logo"] {
+    .sb-component[data-sb-field-path="logo"] + span {
         @apply font-serif;
     }
 
