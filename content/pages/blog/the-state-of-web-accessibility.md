@@ -62,7 +62,13 @@ seo:
     digital accessibility? Jason Day provides key takeaways from the report, and
     shows that there is a path forward. 
   addTitleSuffix: true
-  metaTags: []
+  metaTags:
+    - type: MetaTag
+      property: 'og:description'
+      content: >-
+        What does the WebAIM Million Project's results tell us about the state
+        of digital accessibility? Jason Day provides key takeaways from the
+        report, and shows that there is a path forward. 
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
 styles:
