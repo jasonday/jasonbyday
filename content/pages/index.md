@@ -142,6 +142,7 @@ sections:
               - pr-8
             borderRadius: none
             flexDirection: row
+            borderStyle: solid
         type: FeaturedItem
     actions:
       - label: Get started
