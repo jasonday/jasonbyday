@@ -69,6 +69,9 @@ seo:
         What does the WebAIM Million Project's results tell us about the state
         of digital accessibility? Jason Day provides key takeaways from the
         report, and shows that there is a path forward. 
+    - type: MetaTag
+      property: 'og:image:alt'
+      content: 'https://jasonbyday.netlify.app/images/hurdles.jpg'
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
 styles:
