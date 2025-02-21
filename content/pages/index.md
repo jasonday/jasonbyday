@@ -701,7 +701,7 @@ sections:
             - pr-6
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 1
+          borderWidth: 2
           borderRadius: none
       type: FormBlock
       submitButton:
