@@ -143,6 +143,7 @@ sections:
             borderRadius: none
             flexDirection: row
             borderStyle: solid
+            borderColor: border-dark
         type: FeaturedItem
     actions:
       - label: Get started
