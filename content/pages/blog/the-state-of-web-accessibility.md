@@ -62,7 +62,8 @@ seo:
     digital accessibility? Jason Day provides key takeaways from the report, and
     shows that there is a path forward. 
   addTitleSuffix: true
-  metaTags: []
+  metaTags:
+    - type: MetaTag
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
 styles:
