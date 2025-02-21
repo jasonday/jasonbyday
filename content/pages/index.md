@@ -117,6 +117,7 @@ sections:
             textAlign: left
             justifyContent: center
             borderStyle: solid
+            borderColor: border-dark
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
