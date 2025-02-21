@@ -9,7 +9,8 @@
             }
         },
         "type": "ImageBlock",
-        "url": "/images/caricature.png"
+        "url": "/images/caricature.png",
+        "elementId": "logo"
     },
     "primaryLinks": [
         {
