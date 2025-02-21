@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/caricature2.png",
         "altText": "Jason Day",
         "styles": {
             "self": {
@@ -9,7 +8,9 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/caricature.png",
+        "elementId": "logo"
     },
     "primaryLinks": [
         {
