@@ -70,6 +70,7 @@ seo:
         of digital accessibility? Jason Day provides key takeaways from the
         report, and shows that there is a path forward. 
     - type: MetaTag
+      property: 'og:image:alt'
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
 styles:
