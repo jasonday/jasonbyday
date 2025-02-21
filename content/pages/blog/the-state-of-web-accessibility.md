@@ -4,9 +4,7 @@ title: >-
   The State of Web Accessibility: What We Can Learn from the WebAIM Million
   Project
 date: '2025-02-21'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/hurdles.jpg
