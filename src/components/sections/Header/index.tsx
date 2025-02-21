@@ -246,8 +246,8 @@ function SiteLogoLink({ title, logo, enableAnnotations }) {
             {logo && <ImageBlock {...logo} {...(enableAnnotations && { 'data-sb-field-path': 'logo' })} />}
             {title && (
                 <span className="h4" {...(enableAnnotations && { 'data-sb-field-path': 'title' })}>
-                   // {title}
-                    Jason <span>by</span> Day
+                     {/* {title} */}
+                    JASON <span>by</span> DAY
                 </span>
             )}
         </Link>

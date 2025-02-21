@@ -132,6 +132,13 @@
         @apply font-serif;
     }
 
+    span[data-sb-field-path="title"] span {
+        text-transform: lowercase;
+        font-style: italic;
+        font-size: .9em;
+        margin-left: -3px;
+    }
+
     /* Buttons */
     .sb-component-button {
         @apply inline-flex justify-center items-center text-center border transition duration-200 ease-in hover:-translate-y-1;
