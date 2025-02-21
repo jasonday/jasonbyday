@@ -125,6 +125,7 @@
 
     /* header */
     #logo {
+        @apply font-serif
         width: 3em;
     }
 
