@@ -199,7 +199,8 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts: []
+  - posts:
+      - content/pages/blog/the-state-of-web-accessibility.md
     showThumbnail: true
     showDate: true
     showAuthor: true
