@@ -129,7 +129,7 @@
     }
 
     span[data-sb-field-path="title"] {
-        @apply font-serif serif;
+        @apply font-serif;
     }
 
     /* Buttons */
