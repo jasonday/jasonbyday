@@ -58,7 +58,7 @@ seo:
   type: Seo
   metaTitle: lorem-ipsum
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
