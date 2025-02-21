@@ -64,6 +64,7 @@ seo:
   addTitleSuffix: true
   metaTags:
     - type: MetaTag
+      property: 'og:description'
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
 styles:
