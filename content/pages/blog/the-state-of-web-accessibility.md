@@ -64,6 +64,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    borderColor: border-dark
 author: content/data/jason-day.json
 ---
 ![Illustration of three hurdles in a row, blocking the path to a flag](/images/hurdles.jpg)
