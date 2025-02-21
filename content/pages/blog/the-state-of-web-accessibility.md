@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/hurdles.jpg
-  altText: Thumbnail
+  altText: 'Three hurdles in a row, blocking the path to a flag'
   elementId: ''
   styles:
     self:
