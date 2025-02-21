@@ -4,7 +4,9 @@ title: >-
   The State of Web Accessibility: What We Can Learn from the WebAIM Million
   Project
 date: '2025-02-21'
-excerpt: ''
+excerpt: >-
+  "pages with fewer errors have gotten better while pages with many errors have
+  gotten worse."
 featuredImage:
   type: ImageBlock
   url: /images/hurdles.jpg
