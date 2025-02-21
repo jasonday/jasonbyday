@@ -9,7 +9,8 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
-    posts: []
+    posts:
+      - content/pages/blog/the-state-of-web-accessibility.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
