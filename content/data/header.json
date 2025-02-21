@@ -8,7 +8,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/caricature2.png"
     },
     "primaryLinks": [
         {
