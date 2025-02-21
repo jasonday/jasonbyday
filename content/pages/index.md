@@ -118,6 +118,7 @@ sections:
             justifyContent: center
             borderStyle: solid
             borderColor: border-dark
+            borderWidth: 2
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
