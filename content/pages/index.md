@@ -144,6 +144,7 @@ sections:
             flexDirection: row
             borderStyle: solid
             borderColor: border-dark
+            borderWidth: 2
         type: FeaturedItem
     actions:
       - label: Get started
