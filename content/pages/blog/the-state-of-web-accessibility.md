@@ -71,6 +71,7 @@ seo:
         report, and shows that there is a path forward. 
     - type: MetaTag
       property: 'og:image:alt'
+      content: 'https://jasonbyday.netlify.app/images/hurdles.jpg'
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
 styles:
