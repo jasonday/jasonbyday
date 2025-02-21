@@ -69,7 +69,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - title: Divider
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
