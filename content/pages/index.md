@@ -141,7 +141,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: none
-            flexDirection: col
+            flexDirection: row
             borderStyle: solid
             borderColor: border-dark
             borderWidth: 2
