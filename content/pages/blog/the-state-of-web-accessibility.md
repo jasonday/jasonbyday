@@ -72,6 +72,7 @@ seo:
     - type: MetaTag
       property: 'og:image:alt'
       content: 'https://jasonbyday.netlify.app/images/hurdles.jpg'
+    - type: MetaTag
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
 styles:
