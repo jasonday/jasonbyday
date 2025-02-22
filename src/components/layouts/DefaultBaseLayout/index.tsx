@@ -5,6 +5,10 @@ import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
 import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } from '../../../utils/seo-utils';
 
+export const metadata = {
+  title: seoGenerateTitle(page, site)
+}
+
 export default function DefaultBaseLayout(props) {
     const { page, site } = props;
     const { enableAnnotations = true } = site;
