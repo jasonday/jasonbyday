@@ -21,7 +21,7 @@ export default function DefaultBaseLayout(props) {
         <div className={classNames('sb-page', pageMeta.pageCssClasses)} {...(enableAnnotations && { 'data-sb-object-id': pageMeta.id })}>
             <div className="sb-base sb-default-base-layout">
                 <Head>
-                    <title>{title}</title>
+                  
                    
                 </Head>
                 {site.header && <Header {...site.header} enableAnnotations={enableAnnotations} />}
