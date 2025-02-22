@@ -74,6 +74,7 @@ seo:
       content: 'https://jasonbyday.netlify.app/images/hurdles.jpg'
     - type: MetaTag
       property: 'og:url'
+      content: 'https://jasonbyday.netlify.app/blog/the-state-of-web-accessibility/'
   socialImage: /images/hurdles.jpg
 colors: bg-light-fg-dark
 styles:
