@@ -7,7 +7,7 @@ import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } fro
 
 
 export const metadata = {
-  title: seoGenerateTitle(props),
+  title: 'test',
 }
 
 export default function DefaultBaseLayout(props) {
