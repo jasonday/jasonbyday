@@ -15,7 +15,7 @@ export default function DefaultBaseLayout(props) {
     return (
         <div className={classNames('sb-page', pageMeta.pageCssClasses)} {...(enableAnnotations && { 'data-sb-object-id': pageMeta.id })}>
             <div className="sb-base sb-default-base-layout">
-                <>
+                <Head>
                     <title>{title}</title>
                     {metaDescription && <meta name="description" content={metaDescription} />}
                     {metaTags.map((metaTag) => {
@@ -27,7 +27,7 @@ export default function DefaultBaseLayout(props) {
                     })}
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
-                </>
+                </Head>
                 {site.header && <Header {...site.header} enableAnnotations={enableAnnotations} />}
                 {props.children}
                 {site.footer && <Footer {...site.footer} enableAnnotations={enableAnnotations} />}
