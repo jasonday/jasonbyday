@@ -17,6 +17,7 @@ export default function DefaultBaseLayout(props) {
             <div className="sb-base sb-default-base-layout">
                 <Head>
                     <title>{title}</title>
+                    {metadataBase: new URL('https://jasonbyday.netlify.app')}
                     {metaDescription && <meta name="description" content={metaDescription} />}
                     {metaTags.map((metaTag) => {
                         if (metaTag.format === 'property') {
@@ -35,4 +36,3 @@ export default function DefaultBaseLayout(props) {
         </div>
     );
 }
-
